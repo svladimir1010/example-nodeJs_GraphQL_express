@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "id": "3",
+      "name": "Stive Smit",
+      "email": "ssmit@gmail.com",
+      "age": 11
+    },
+    {
+      "id": "4",
+      "name": "Sara Konor",
+      "email": "skonor@gmail.com",
+      "age": 16
+    },
+    {
+      "id": "5",
+      "name": "Solt Solt",
+      "email": "solt@gmail.com",
+      "age": 0
+    },
+    {
+      "id": "6",
+      "name": "Jack Jack",
+      "email": "Jack@gmail.com",
+      "age": 31
+    },
+    {
+      "name": "Rik",
+      "email": "rik@gmail.com",
+      "age": 10,
+      "id": "oIRqdi1"
+    },
+    {
+      "name": "Roy",
+      "email": "roy@gmail.com",
+      "age": 40,
+      "id": "qOmgEgM"
+    },
+    {
+      "name": "Roy",
+      "email": "roy@gmail.com",
+      "age": 40,
+      "id": "WwLY64W"
+    },
+    {
+      "name": "Roy",
+      "email": "roy@gmail.com",
+      "age": 40,
+      "id": "bLYl9D8"
+    }
+  ]
+}
